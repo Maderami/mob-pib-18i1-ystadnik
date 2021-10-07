@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<lisDocuments>
+    <document id="1001">
+        <titleDocument>low</titleDocument>
+        <authorDocument>yin fong</authorDocument>
+        <statusDocument>Approve</statusDocument>
+        <salary currency="INR">200000</salary>
+    </document>
+    <document id="2001">
+        <titleDocument>low</titleDocument>
+        <authorDocument>yin fong</authorDocument>
+        <statusDocument>Approve</statusDocument>
+        <salary currency="INR">200000</salary>
+    </document>
+</lisDocuments>
